@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# This is our list we want ranked by the end-user
+export list_keys='Pizza,Pasta,Stromboli,Spaghetti'
+
+node index.js
+
+
+# Below here is for after you get two users to make ranked
+# selections so that you can find the mean rank between the two
+
+#export list_a_keys='Pizza,Pasta,Stromboli,Spaghetti'
+#export list_a_values='1,2,3,4'
+
+#export list_b_keys='Pizza,Pasta,Stromboli,Spaghetti'
+#export list_b_values='3,4,1,2'
+
+#node final_rank.js
+

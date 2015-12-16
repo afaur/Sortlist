@@ -1,0 +1,12 @@
+{
+  "name": "Sortlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "readline-sync": "^1.2.21"
+  }
+}
